@@ -4,5 +4,8 @@ downloads/
 # Local dev preview server (not needed on GitHub Pages)
 server.ps1
 
+# OG cover build source (the rendered og-image.png IS committed)
+og-cover.html
+
 # Converted markdown / scratch
 *.md.bak
